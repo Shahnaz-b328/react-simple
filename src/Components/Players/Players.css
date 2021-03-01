@@ -1,0 +1,10 @@
+.players-container{
+    display: flex;
+}
+.total-players{
+    margin-left: 200px;
+}
+.players{
+    border-right: 1px solid lightcoral;
+    margin-left: 30px;
+}
